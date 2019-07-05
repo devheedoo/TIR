@@ -11,5 +11,10 @@
 ## 2장: 알아두어야 할 자바스크립트
 
 - ES2015(ES6), `const`/`let`, 화살표 함수, 비구조화 할당, 프로미스
+- AJAX
+- FormData
+- Data Attribute
 
+## 3장: 노드 기능 알아보기
 
+- REPL
